@@ -1,1 +1,13 @@
+## Streamlit secrets (keep local only)
 .streamlit/secrets.toml
+
+# Local environment files
+.env
+
+# Virtual environment
+.venv/
+venv/
+
+# Python caches
+__pycache__/
+*.py[cod]
