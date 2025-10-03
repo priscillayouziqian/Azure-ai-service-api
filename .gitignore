@@ -11,3 +11,6 @@ venv/
 # Python caches
 __pycache__/
 *.py[cod]
+
+week7_Zhaoyi_Yan.zip
+.vscode/
